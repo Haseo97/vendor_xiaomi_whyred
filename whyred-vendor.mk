@@ -1333,4 +1333,5 @@ PRODUCT_PACKAGES += \
     PowerOffAlarm \
     TimeService \
     qcrilhook \
+    libqct_resampler \
     chargeonlymode
